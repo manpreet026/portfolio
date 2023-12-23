@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/manpreet026/portfolio/static/css/main.566c6e16.css",
-    "main.js": "/manpreet026/portfolio/static/js/main.20e619c4.js",
-    "static/media/bannerImg.png": "/manpreet026/portfolio/static/media/bannerImg.fec1c5ff1ddd224d366f.png",
-    "static/media/contactImg.png": "/manpreet026/portfolio/static/media/contactImg.a87002f5a4ba503b1061.png",
-    "static/media/testimonialOne.png": "/manpreet026/portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
-    "static/media/projectThree.jpeg": "/manpreet026/portfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
-    "static/media/testimonialTwo.png": "/manpreet026/portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "static/media/projectTwo.jpg": "/manpreet026/portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
-    "static/media/projectOne.jpg": "/manpreet026/portfolio/static/media/projectOne.fae7bbb4593d7846c4aa.jpg",
-    "static/media/logo.png": "/manpreet026/portfolio/static/media/logo.6c79d0a705124be2f622.png",
-    "index.html": "/manpreet026/portfolio/index.html",
-    "main.566c6e16.css.map": "/manpreet026/portfolio/static/css/main.566c6e16.css.map",
-    "main.20e619c4.js.map": "/manpreet026/portfolio/static/js/main.20e619c4.js.map"
+    "main.css": "/portfolio/static/css/main.566c6e16.css",
+    "main.js": "/portfolio/static/js/main.600e4fed.js",
+    "static/media/bannerImg.png": "/portfolio/static/media/bannerImg.fec1c5ff1ddd224d366f.png",
+    "static/media/contactImg.png": "/portfolio/static/media/contactImg.a87002f5a4ba503b1061.png",
+    "static/media/testimonialOne.png": "/portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/portfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "static/media/projectOne.jpg": "/portfolio/static/media/projectOne.fae7bbb4593d7846c4aa.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.6c79d0a705124be2f622.png",
+    "index.html": "/portfolio/index.html",
+    "main.566c6e16.css.map": "/portfolio/static/css/main.566c6e16.css.map",
+    "main.600e4fed.js.map": "/portfolio/static/js/main.600e4fed.js.map"
   },
   "entrypoints": [
     "static/css/main.566c6e16.css",
-    "static/js/main.20e619c4.js"
+    "static/js/main.600e4fed.js"
   ]
 }
